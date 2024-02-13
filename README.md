@@ -1,3 +1,7 @@
+# movie-application
+
+This is a movie application, created using ReactJS, Javascript, HTML, and CSS. The app utilizies OMDb's (Open Movies Database) API to fetch movie information. User can search for any movie and the app will dynamically display the list of all relevant movies, along with their poster and information like release date, cast, etc.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
