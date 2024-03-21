@@ -42,6 +42,6 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## Contact
 
-For any inquiries or questions regarding this project, you can reach out to me at [your-email@example.com](mailto:your-email@example.com).
+For any inquiries or questions regarding this project, you can reach out to me at [utkarsh_jadon@hotmail.com](mailto:utkarsh_jadon@hotmail.com).
 
 Enjoy exploring movies!
